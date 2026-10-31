@@ -3,5 +3,5 @@ extension {
 }
 
 android {
-    namespace = "app.template.extension"
+    namespace = "com.ghost_throw.morphe.extension"
 }

@@ -1,4 +1,4 @@
-package app.template.patches.shared
+package com.ghost_throw.morphe.patches.example.shared
 
 import app.morphe.patcher.patch.ApkFileType
 import app.morphe.patcher.patch.AppTarget
