@@ -1,8 +1,8 @@
 {
-  "created_at": "2026-10-31T10:19:46",
-  "description": "## 1.0.0 (2026-10-31)\n\n### 🐛 Bug Fixes\n\n* first build ([63fe070](https://github.com/ghost-throw/Ergo-this-symphony/commit/63fe070e6e65c7d3ea4bf60cf7b3a2695781e862))",
-  "download_url": "https://github.com/ghost-throw/Ergo-this-symphony/releases/download/v1.0.0/patches-1.0.0.mpp",
+  "created_at": "2026-10-31T14:19:04",
+  "description": "## [1.1.0-dev.1](https://github.com/ghost-throw/Ergo-this-symphony/compare/v1.0.0...v1.1.0-dev.1) (2026-10-31)\n\n### ✨ New Features\n\n* dialer patch ([d8a72c0](https://github.com/ghost-throw/Ergo-this-symphony/commit/d8a72c08dffc0e4edd7c8ef1663d0b72a17641bb))",
+  "download_url": "https://github.com/ghost-throw/Ergo-this-symphony/releases/download/v1.1.0-dev.1/patches-1.1.0-dev.1.mpp",
   "signature_download_url": "",
-  "version": "1.0.0",
+  "version": "1.1.0-dev.1",
   "public_key": "OqE0MzJhX3S0otIMSxgu56XurAMCMKXDFBw2EQUSPFc="
 }
