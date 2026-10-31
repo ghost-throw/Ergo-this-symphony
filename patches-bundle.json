@@ -1,8 +1,8 @@
 {
-  "created_at": "2026-10-31T10:15:41",
-  "description": "## 1.0.0-dev.1 (2026-10-31)\n\n### 🐛 Bug Fixes\n\n* first build ([63fe070](https://github.com/ghost-throw/Ergo-this-symphony/commit/63fe070e6e65c7d3ea4bf60cf7b3a2695781e862))",
-  "download_url": "https://github.com/ghost-throw/Ergo-this-symphony/releases/download/v1.0.0-dev.1/patches-1.0.0-dev.1.mpp",
+  "created_at": "2026-10-31T10:19:46",
+  "description": "## 1.0.0 (2026-10-31)\n\n### 🐛 Bug Fixes\n\n* first build ([63fe070](https://github.com/ghost-throw/Ergo-this-symphony/commit/63fe070e6e65c7d3ea4bf60cf7b3a2695781e862))",
+  "download_url": "https://github.com/ghost-throw/Ergo-this-symphony/releases/download/v1.0.0/patches-1.0.0.mpp",
   "signature_download_url": "",
-  "version": "1.0.0-dev.1",
+  "version": "1.0.0",
   "public_key": "OqE0MzJhX3S0otIMSxgu56XurAMCMKXDFBw2EQUSPFc="
 }
