@@ -1,12 +1,21 @@
-# 👋🧩 Morphe Patches template
+# 👋🧩 Ghost Throw Patches
 
-Template repository for Morphe Patches.
+Ghost Throw's repository for Morphe Patches.
 
 ## ❓ About
 
-Patches for apps I like.
+Patches for Android apps 😁
 
-<!-- TODO: Update this about section with a brief introduction/summary about this repo and what it offers. -->
+### In Progress 
+
+- Google Phone Dialer - Allows recording
+
+### Future
+
+- Instagram - Full screen for reels
+- Apple Music - Song glue
+- Ynet - Hide ads
+- CHP - Generic item to search top results
 
 ### How to use these patches
 

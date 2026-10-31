@@ -1,12 +1,11 @@
-group = "app.template"
+group = "com.ghost-throw.morphe"
 
 patches {
-    // TODO: Update this section with your project details.
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
+        name = "Ghost Throw's morphe patches"
+        description = "Patches for Google Phone, and more (in the future)!"
+        source = "git@github.com:Ghost-throw/Ergo-this-symphony.git"
+        author = "Ghost Throw"
         contact = "na"
         website = "na"
         license = "GPLv3"
